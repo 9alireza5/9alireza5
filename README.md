@@ -1,19 +1,17 @@
 # Hi there 👋, I'm Alireza
 
-🎓 Master's student in Structural Engineering at University of Tehran  
-🧑‍💻 Learning **Python**, **C**, **Rust**, and **Assembly**  
-🚀 Interested in **Computational Mechanics**, **AI in Civil Engineering**, **Cybersecurity**, **Penetration Testing**  
+💻 Passionate about programming, systems, cybersecurity, and AI  
+🚀 Currently learning **Rust**, **C**, **Assembly**, and **Python**  
+🎯 Always curious, always building 🚧
 
 ---
 
 ## 🚀 Languages and Tools:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -23,9 +21,18 @@
 
 ---
 
-## 🔗 Links
+## 🔥 Latest Activity
 
-- 🔗 [My GitHub Repos](https://github.com/9alireza5?tab=repositories)
+- 🛠️ Working on C language projects → [C-What-I-Do](https://github.com/9alireza5/C-What-I-Do)
+- 🐍 Experimenting with Python and ML
+- 🦀 Deep diving into Rust
+- 🔐 Learning low-level programming & cybersecurity
+
+---
+
+## ✨ Visitors
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=9alireza5)
 
 ---
 
