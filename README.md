@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Alireza
 
-💻 Passionate about programming, systems, cybersecurity, and AI  
+💻 Passionate about **programming**, **systems**, **cybersecurity**, and **AI**  
 🚀 Currently learning **Rust**, **C**, **Assembly**, and **Python**  
 🎯 Always curious, always building 🚧
 
@@ -15,24 +15,39 @@
 
 ---
 
+## 📚 Currently Learning
+
+- 🦀 Deep diving into **Rust** → systems programming & performance
+- 🔐 **Cybersecurity** → low-level programming, memory management, exploit development
+- 🐍 **Python** for ML & automation
+- 🛠️ **Assembly** & **C** → better understanding of the OS & hardware
+
+---
+
+## 🛠️ Projects
+
+- 🦀 Main focus → Rust projects (private & public)
+- 🐍 Experimenting with Python + ML
+- 🛠️ C language projects → [C-What-I-Do](https://github.com/9alireza5/C-What-I-Do)
+
+---
+
 ## 📈 GitHub Stats
 
 ![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=9alireza5&show_icons=true&theme=radical)
 
 ---
 
-## 🔥 Latest Activity
-
-- 🛠️ Working on C language projects → [C-What-I-Do](https://github.com/9alireza5/C-What-I-Do)
-- 🐍 Experimenting with Python and ML
-- 🦀 Deep diving into Rust
-- 🔐 Learning low-level programming & cybersecurity
-
----
-
 ## ✨ Visitors
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=9alireza5)
+
+---
+
+## 📫 Contact Me
+
+- 🌐 [GitHub](https://github.com/9alireza5)
+- ✉️ Email: *(you can add if you want, or leave empty)*
 
 ---
 
