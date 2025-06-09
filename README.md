@@ -47,7 +47,7 @@
 ## 📫 Contact Me
 
 - 🌐 [GitHub](https://github.com/9alireza5)
-- ✉️ Email: *(you can add if you want, or leave empty)*
+- ✉️ Email: *(alireza.vb1995@gmail.com)*
 
 ---
 
