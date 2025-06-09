@@ -1,54 +1,41 @@
-# Hi there 👋, I'm Alireza
+<h1 align="center">Hi, I'm Alireza 👋</h1>
 
-💻 Passionate about **programming**, **systems**, **cybersecurity**, and **AI**  
-🚀 Currently learning **Rust**, **C**, **Assembly**, and **Python**  
-🎯 Always curious, always building 🚧
-
----
-
-## 🚀 Languages and Tools:
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  🛠️ Currently learning low-level programming and exploring the world of software engineering.
+</p>
 
 ---
 
-## 📚 Currently Learning
+### 🚀 What I'm focusing on:
 
-- 🦀 Deep diving into **Rust** → systems programming & performance
-- 🔐 **Cybersecurity** → low-level programming, memory management, exploit development
-- 🐍 **Python** for ML & automation
-- 🛠️ **Assembly** & **C** → better understanding of the OS & hardware
-
----
-
-## 🛠️ Projects
-
-- 🦀 Main focus → Rust projects (private & public)
-- 🐍 Experimenting with Python + ML
-- 🛠️ C language projects → [C-What-I-Do](https://github.com/9alireza5/C-What-I-Do)
+- 🦀 **Rust** — my main focus; building a strong foundation in systems programming.
+- 🖥️ **C** — diving deeper into how computers work under the hood.
+- 🛠️ **Assembly** — starting to understand the very core of how code runs on hardware.
+- 🐍 **Python** — using it occasionally for quick tasks, scripting, and experimenting with AI.
 
 ---
 
-## 📈 GitHub Stats
+### 📚 Current Status:
 
-![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=9alireza5&show_icons=true&theme=radical)
-
----
-
-## ✨ Visitors
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=9alireza5)
+I'm a Master's student in **Structural Engineering** at the University of Tehran, but I’m also very passionate about programming.  
+Right now I’m spending a lot of time learning **Rust**, **C**, and **Assembly**, with a long-term goal of understanding systems, kernels, and cybersecurity.
 
 ---
 
-## 📫 Contact Me
+### 🌱 What I believe in:
 
-- 🌐 [GitHub](https://github.com/9alireza5)
-- ✉️ Email: *(alireza.vb1995@gmail.com)*
+- Learning step by step — no rush, no shortcuts.
+- Writing clean, simple code.
+- Being curious about how things *really* work.
 
 ---
 
-⭐️ From [Alireza](https://github.com/9alireza5)
+### 🔗 Where to find me:
+
+- 🐙 [GitHub](https://github.com/9alireza5)
+
+---
+
+<p align="center">
+  🚧 This profile is a work in progress — just like my coding journey 🚧
+</p>
