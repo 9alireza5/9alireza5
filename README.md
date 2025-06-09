@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Learning Focus (2025)
+## 🚀 Learning Focus
 
 - 🦀 **Rust** → My primary focus — building systems, exploring the language deeply
 - 🖥️ **C** → Strengthening my understanding of memory, pointers, and system internals
@@ -16,7 +16,7 @@
 
 ---
 
-## 📅 2025 Milestones
+## 📅 Milestones
 
 ✅ Rust basics → ownership, borrowing, lifetimes  
 ✅ C deep dive → structs, dynamic memory, pointers  
