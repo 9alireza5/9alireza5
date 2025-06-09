@@ -1,41 +1,66 @@
-<h1 align="center">Hi, I'm Alireza 👋</h1>
+<h1 align="center">Hey, I'm Alireza 👋</h1>
 
 <p align="center">
-  🛠️ Currently learning low-level programming and exploring the world of software engineering.
+  🛠️ Passionate about low-level programming & systems <br>
+  🚀 Currently on a learning journey through Rust, C, Assembly, and Python
 </p>
 
 ---
 
-### 🚀 What I'm focusing on:
+## 🚀 Learning Focus (2025)
 
-- 🦀 **Rust** — my main focus; building a strong foundation in systems programming.
-- 🖥️ **C** — diving deeper into how computers work under the hood.
-- 🛠️ **Assembly** — starting to understand the very core of how code runs on hardware.
-- 🐍 **Python** — using it occasionally for quick tasks, scripting, and experimenting with AI.
-
----
-
-### 📚 Current Status:
-
-I'm a Master's student in **Structural Engineering** at the University of Tehran, but I’m also very passionate about programming.  
-Right now I’m spending a lot of time learning **Rust**, **C**, and **Assembly**, with a long-term goal of understanding systems, kernels, and cybersecurity.
+- 🦀 **Rust** → My primary focus — building systems, exploring the language deeply
+- 🖥️ **C** → Strengthening my understanding of memory, pointers, and system internals
+- ⚙️ **Assembly** → Learning how code really works on hardware
+- 🐍 **Python** → Occasionally using it for scripting and AI experiments
 
 ---
 
-### 🌱 What I believe in:
+## 📅 2025 Milestones
 
-- Learning step by step — no rush, no shortcuts.
-- Writing clean, simple code.
-- Being curious about how things *really* work.
+✅ Rust basics → ownership, borrowing, lifetimes  
+✅ C deep dive → structs, dynamic memory, pointers  
+✅ First Assembly exercises → stack, registers  
+✅ CLI tools in Rust & C  
+⬜ Upcoming → deeper OS concepts, async Rust, kernel-level exploration
 
 ---
 
-### 🔗 Where to find me:
+## 🛠️ Current Tools & Stack
 
-- 🐙 [GitHub](https://github.com/9alireza5)
+![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-gray?style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🗂️ Some Projects
+
+- [🦀 Rust Experiments](https://github.com/9alireza5?tab=repositories&q=rust&type=&language=&sort=)
+- [💻 C Programming Practice](https://github.com/9alireza5?tab=repositories&q=c&type=&language=&sort=)
+- [⚙️ Assembly Playground](#) <!-- link when ready -->
+- [🐍 Python AI Experiments](#) <!-- link when ready -->
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=9alireza5&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=9alireza5&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
 <p align="center">
-  🚧 This profile is a work in progress — just like my coding journey 🚧
+  🚧 Always learning. Always improving. 🚧 <br>
+  <i>Profile in progress... Stay tuned! 🚀</i>
 </p>
